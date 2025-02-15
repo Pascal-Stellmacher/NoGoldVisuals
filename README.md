@@ -21,11 +21,11 @@
 4️⃣ **Start the game & enjoy better performance!** 🎮  
 
 ### Manual Installation  
-1️⃣ Download the latest **NoGoldVisuals.zip** from [Thunderstore](https://thunderstore.io/) or [GitHub](https://github.com/dein-repo-link).  
+1️⃣ Download the latest **NoGoldVisuals.zip** from [Thunderstore](https://thunderstore.io/c/riskofrain2/p/AllOfThem/NoGoldVisuals/) or [GitHub](https://github.com/Pascal-Stellmacher/NoGoldVisuals).  
 2️⃣ Extract the ZIP file.  
 3️⃣ Move the `NoGoldVisuals.dll` file into:  
-   ```
-   Risk of Rain 2/BepInEx/plugins/NoGoldVisuals/
+   ```  
+   Risk of Rain 2/BepInEx/plugins/NoGoldVisuals/  
    ```  
 4️⃣ Start the game!  
 
@@ -36,7 +36,7 @@
 ✅ **Multiplayer safe**  
 ✅ **Will be updated for future RoR2 patches**  
 
-🚀 **For bug reports & feature requests, visit:** [GitHub Issues](https://github.com/dein-repo-link/issues)  
+🚀 **For bug reports & feature requests, visit:** [GitHub Issues](https://github.com/Pascal-Stellmacher/NoGoldVisuals/issues)  
 
 ---
 
@@ -58,4 +58,4 @@
 ---
 
 ### 📌 Download & Play Now!  
-📥 **[Thunderstore Link](https://thunderstore.io/)** | 🛠️ **[GitHub Repo](https://github.com/dein-repo-link)**  
+📥 **[Thunderstore Link](https://thunderstore.io/c/riskofrain2/p/AllOfThem/NoGoldVisuals/)** | 🛠️ **[GitHub Repo](https://github.com/Pascal-Stellmacher/NoGoldVisuals)**
