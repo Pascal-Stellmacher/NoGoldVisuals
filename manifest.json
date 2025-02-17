@@ -1,7 +1,10 @@
 {
     "name": "NoGoldVisuals",
-    "version_number": "1.0.1",
+    "version_number": "1.0.2",
     "website_url": "https://github.com/Pascal-Stellmacher/NoGoldVisuals",  
     "description": "Removes the gold visual effects but keeps the gold reward.",
-    "dependencies": [ "bbepis-BepInExPack-5.4.1900" ]
+    "dependencies": [ 
+        "bbepis-BepInExPack-5.4.1900",
+        "tristanmcpherson-R2API-5.0.0" 
+]
 }
